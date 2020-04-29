@@ -1,6 +1,6 @@
 module.exports = {
   url: 'https://dospolov.com',
-  pathPrefix: '/cv',
+  pathPrefix: '/',
   title: 'Blog by Marat Dospolov',
   keywords:
     'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
